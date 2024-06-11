@@ -1,0 +1,2 @@
+o github nao aceita arquivos acima de 25mb
+github doesn't permit file upload above 25 mb
